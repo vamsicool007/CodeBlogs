@@ -19,4 +19,4 @@ How to run (For Windows):
         •	pip install pillow
   3.	Then go the directory of the project and open cmd in that folder or open cmd change directory to project folder.
   4.	Now write this command: python run.py
-  5.	Then you will observe an ip address copy that and paste it in any browser and you can see the website there.
+  5.	Then you will observe an ip address copy that and paste it in any browser and you can see the website there
